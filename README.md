@@ -95,16 +95,16 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
       <td width="50%">
         <h3 align="center">🌐 Project Three</h3>
         <p align="center">
-          <a href="https://github.com/vidung007/project-three" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=project-three&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Three"/>
+          <a href="https://github.com/vidung007/Autonomous-Vehicle-Simulator" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=Autonomous-Vehicle-Simulator&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Three"/>
           </a>
         </p>
       </td>
       <td width="50%">
         <h3 align="center">🔧 Project Four</h3>
         <p align="center">
-          <a href="https://github.com/vidung007/project-four" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=project-four&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Four"/>
+          <a href="https://github.com/vidung007/MistralAI" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=MistralAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Four"/>
           </a>
         </p>
       </td>
