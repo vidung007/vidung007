@@ -1,7 +1,7 @@
 # 🚀 Welcome to My Digital Universe! 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone!+I'm+Vishal+%F0%9F%91%8B;AI/ML+Engineer;Creative+Problem+Solver;Open+Source+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+%F0%9F%91%8B;Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -171,13 +171,15 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
 ## 🎉 **Visitor Counter**
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/vidung007/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vidung007&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
+## 🐍 **My Contribution Snake**
+
 <div align="center">
-  <img src="https://github.com/vidung007/vidung007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/vidung007/vidung007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
