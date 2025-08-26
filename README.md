@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vidung007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -60,11 +60,11 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vidung007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidung007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidung007&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -77,16 +77,16 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
       <td width="50%">
         <h3 align="center">🎨 Project One</h3>
         <p align="center">
-          <a href="https://github.com/YOUR_USERNAME/project-one" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project One"/>
+          <a href="https://github.com/vidung007/Stratus-Agent" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=Stratus-Agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project One"/>
           </a>
         </p>
       </td>
       <td width="50%">
         <h3 align="center">⚡ Project Two</h3>
         <p align="center">
-          <a href="https://github.com/YOUR_USERNAME/project-two" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Two"/>
+          <a href="https://github.com/vidung007/DocRag" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=DocRag&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Two"/>
           </a>
         </p>
       </td>
@@ -95,16 +95,16 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
       <td width="50%">
         <h3 align="center">🌐 Project Three</h3>
         <p align="center">
-          <a href="https://github.com/YOUR_USERNAME/project-three" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-three&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Three"/>
+          <a href="https://github.com/vidung007/project-three" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=project-three&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Three"/>
           </a>
         </p>
       </td>
       <td width="50%">
         <h3 align="center">🔧 Project Four</h3>
         <p align="center">
-          <a href="https://github.com/YOUR_USERNAME/project-four" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-four&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Four"/>
+          <a href="https://github.com/vidung007/project-four" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidung007&repo=project-four&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Project Four"/>
           </a>
         </p>
       </td>
@@ -126,15 +126,15 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
 ## 📈 **My GitHub Journey**
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vidung007&theme=radical" alt="Profile Details" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidung007&theme=radical" alt="Repos Per Language" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vidung007&theme=radical" alt="Most Commit Language" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vidung007&theme=radical" alt="Stats" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vidung007&theme=radical" alt="Productive Time" />
 </div>
 
 ---
@@ -152,13 +152,13 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
 ## 📫 **Let's Connect!**
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishaldung-csgrad/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com/https://x.com/TojiButInSpace" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:vishalofficial18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
@@ -171,13 +171,13 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
 ## 🎉 **Visitor Counter**
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/vidung007/count.svg" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://github.com/vidung007/vidung007/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
 ---
@@ -196,4 +196,3 @@ I'm a passionate **Full Stack Developer** who believes that code is poetry and e
 <div align="center">
   <sub>⭐ Star this repository if you found it helpful! ⭐</sub>
 </div>
-
