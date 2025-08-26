@@ -157,7 +157,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who believes tha
 <div align="center">
   <img src="https://img.shields.io/badge/-Debug%20Dreams-667EEA?style=for-the-badge&logo=zap&logoColor=white" alt="Debug Dreams" />
   <img src="https://img.shields.io/badge/-Coffee%20Fuel-38B2AC?style=for-the-badge&logo=coffee&logoColor=white" alt="Coffee Fuel" />
-  <img src="https://img.shields.io/badge/-Lo-Fi%20Coder-F093FF?style=for-the-badge&logo=music&logoColor=white" alt="Lo-Fi Coder" />
+  <img src="https://img.shields.io/badge/-Lo-Fi%20Coder-F093FF?style=for-the-badge&logo=spotify&logoColor=white" alt="Lo-Fi Coder" />
 </div>
 
 - 🎮 I debug in my dreams (literally!)
